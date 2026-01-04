@@ -6,7 +6,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC524?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-Native-blue?style=for-the-badge&logo=googlecloud)
 
-*Passionate DevOps Engineer, specializing in containerization, orchestration, infrastructure automation, Laptop troubleshooting, Operating system installations (Windows, Linux), Software troubleshooting and compatibility issues, Linux terminal installations and command-line operations, System updates & maintenance, Antivirus installation and configuration and 5+ years daily linux usage experience in college laptop*
+*Passionate DevOps Engineer, specializing in containerization, orchestration, infrastructure automation, in my college in 100+ laptops:- Laptop troubleshooting, Operating system installations (Windows, Linux), Software troubleshooting and compatibility issues, Linux terminal installations and command-line operations, System updates & maintenance, Antivirus installation and configuration and 5+ years daily linux usage experience in college laptop*
 
 </div>
 
