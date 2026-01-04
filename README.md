@@ -3,10 +3,10 @@
 <div align="center">
 
 ![DevOps](https://img.shields.io/badge/DevOps-Expert-orange?style=for-the-badge&logo=kubernetes)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-6_years-orange?style=for-the-badge&logo=ubuntu)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-Native-blue?style=for-the-badge&logo=googlecloud)
 
-*Passionate DevOps Engineer with 6+ years of hands-on Linux experience, specializing in containerization, orchestration, and infrastructure automation*
+*Passionate DevOps Engineer, specializing in containerization, orchestration, infrastructure automation, Laptop troubleshooting, Operating system installations (Windows, Linux), Software troubleshooting and compatibility issues, Linux terminal installations and command-line operations, System updates & maintenance, Antivirus installation and configuration and 5+ years daily linux usage experience in college laptop*
 
 </div>
 
@@ -75,7 +75,7 @@ With hands-on experience in software installation and troubleshooting, laptop an
 
 **Key Achievements:**
 - **College Technical Support Lead** - Served as the primary technical resource for all students, resolving:
-  - Laptop troubleshooting and hardware diagnostics
+  - Laptop troubleshooting
   - Operating system installations (Windows, Linux)
   - Antivirus installation and configuration
   - Software troubleshooting and compatibility issues
