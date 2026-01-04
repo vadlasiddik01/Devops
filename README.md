@@ -3,7 +3,7 @@
 <div align="center">
 
 ![DevOps](https://img.shields.io/badge/DevOps-Expert-orange?style=for-the-badge&logo=kubernetes)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC524?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud-Native-blue?style=for-the-badge&logo=googlecloud)
 
 *Passionate DevOps Engineer, specializing in containerization, orchestration, infrastructure automation, Laptop troubleshooting, Operating system installations (Windows, Linux), Software troubleshooting and compatibility issues, Linux terminal installations and command-line operations, System updates & maintenance, Antivirus installation and configuration and 5+ years daily linux usage experience in college laptop*
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **passionate DevOps Engineer** with extensive hands-on experience in modern cloud infrastructure, containerization, and automation tools. With **6 years of deep expertise in Ubuntu** and a strong foundation in Command Line Interface operations, I bring a unique combination of technical skills and practical problem-solving abilities to every project.
+I am a **passionate DevOps Cloud Engineer** with extensive hands-on experience in modern cloud infrastructure, containerization, and automation tools. With **5+ years of usage expertise in Ubuntu** and a strong foundation in Command Line Interface operations, I bring a unique combination of technical skills and practical problem-solving abilities to every project.
 
 My journey in IT infrastructure began with hands-on experience in software installation, system troubleshooting, and OS maintenance. Throughout my career and college years, I became the go-to person for resolving complex technical issues—from laptop troubleshooting and OS installations to antivirus setup and Linux terminal operations. This experience has honed my diagnostic and problem-solving skills, allowing me to quickly identify and resolve software and infrastructure challenges.
 
@@ -40,7 +40,7 @@ My journey in IT infrastructure began with hands-on experience in software insta
 - 🔄 **Jenkins** - Pipeline automation, CI/CD workflows, integration
 
 ### **Operating Systems & CLI**
-- 🐧 **Linux/Ubuntu** - 6+ years of experience
+- 🐧 **Linux/Ubuntu** - 5+ years of experience
   - Advanced command-line operations
   - System administration
   - Package management
