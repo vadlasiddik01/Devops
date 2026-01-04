@@ -1,0 +1,8 @@
+#default namespace connecting to another namespace (database)
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: mysql-configmap
+  namespace: my-namespace
+data:
+  db_url: mysql-service.database
